@@ -1,1 +1,1 @@
-“Shell DevOps”
+shell basics read me file
